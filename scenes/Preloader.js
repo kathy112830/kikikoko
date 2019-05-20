@@ -27,10 +27,11 @@ LoaderScene.preload = function() {
 	this.load.once("complete", this.finishedLoading);
 
 	//load images
-	this.load.image("img_logo", "img/Title.png");
+	this.load.image("img_logo", "img/Title.jpg");
 	this.load.image("img_startBtn", "img/StartGameBtn.png");
 	this.load.image("img_coin", "img/Coin.png");
 	this.load.image("img_player", "img/Player.png");
+	this.load.image("img_enemy", "img/enemy.png");
 
 	//load sounds
 	this.load.audio("snd_soundtrack", "sounds/soundtrack.wav");
