@@ -3,7 +3,7 @@ var config = {
   height: 200,
   type: Phaser.AUTO,
   scene: [LoaderScene, BootScene, GameScene],
-  title: 'Phaser 3 Assets Loading Project',
+  title: 'Coursework 2',
   pixelArt: true,
   backgroundColor: '000000'
 };
