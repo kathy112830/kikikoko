@@ -4,14 +4,14 @@ var gameConf = {
         default: 'arcade',
         arcade: {
             debug: true,
-            gravity: { y: 90 }
+            gravity: { y: 0 }
         }
     }
 }
 
 var coins = [];
 var player;
-
+var enemy = []
 var GameScene = new Phaser.Scene(gameConf);
 
 //called before the scene is loaded
@@ -47,7 +47,11 @@ GameScene.create = function() {
  			if (item.name == "Coin")
               coins.push(GameScene.physics.add.image(item.x, item.y, "img_coin")
               	.setDepth(10)
-              	.setScale(0.5));
+              	.setScale(1));
+            if (item.name == "Enemy")
+              enemy.push(GameScene.physics.add.image(item.x, item.y, "img_enemy")
+              	.setDepth(10)
+              	.setScale(2));
         });
 	//enable physics
 	coins.forEach(function(item, index, array)
@@ -64,32 +68,63 @@ GameScene.create = function() {
     endTrigger.height = endZone.height;
     console.log(endTrigger);
     endTrigger.body.allowGravity = false;
+    this.physics.add.overlap(player.sprite, enemy, function()
+    {
+    	soundTrack.stop();
+    	enemy = [];
+    	alert("You died");
+    	GameScene.scene.start("Boot");
+    });
     this.physics.add.overlap(player.sprite, endTrigger, function()
     {
     	soundTrack.stop();
     	GameScene.scene.start("Boot");
     });
 }
-
 //called every frame, time is the time when the update method was called, and delta is the time in milliseconds since last frame
+
 GameScene.update = function(time, delta) {
 	player.Update(delta / 1000);
 
-	// When mouse is down, put a colliding tile at the mouse location
-	const pointer = this.input.activePointer;
-	const worldPoint = pointer.positionToCamera(this.cameras.main);
-	if (pointer.isDown)
+
+	//for each enemy
+	enemy.forEach(function(tempEnemy)
 	{
-	  const tile = platformsLayer.putTileAtWorldXY(52, worldPoint.x, worldPoint.y);
-	  tile.setCollision(true);
-	}
+		//get position of the player as a vector
+		var playerPosition = new Phaser.Math.Vector2();
+		playerPosition.x = player.sprite.x;
+		playerPosition.y = player.sprite.y;
+		
+		//get the position of the enemy
+		var tempEnemyPosition = new Phaser.Math.Vector2();
+		tempEnemyPosition.x = tempEnemy.x;
+		tempEnemyPosition.y = tempEnemy.y;
+
+		//calculate a vector from the enemy to the player, then normalise it
+		var vectorToPlayer = playerPosition.subtract(tempEnemyPosition);
+		vectorToPlayer.normalize(); //turns the vector into a unit vector
+
+		//set the enemy velocity to use that vector
+		tempEnemy.body.setVelocity(vectorToPlayer.x * 1.5 * delta, vectorToPlayer.y * 1.5 * delta);
+	})
+
+
+
+	// // When mouse is down, put a colliding tile at the mouse location
+	// const pointer = this.input.activePointer;
+	// const worldPoint = pointer.positionToCamera(this.cameras.main);
+	// if (pointer.isDown)
+	// {
+	//   const tile = platformsLayer.putTileAtWorldXY(52, worldPoint.x, worldPoint.y);
+	//   tile.setCollision(true);
+	// }
 }
 
 GameScene.CreateMap = function(scene)
 {
 	//create map from tileset
  	map = scene.make.tilemap({ key: "map" });
- 	tileset = map.addTilesetImage("Tileset", "tiles");
+ 	tileset = map.addTilesetImage("platformer", "tiles");
 	//create our map in game
 	backgroundLayer = map.createStaticLayer("Background", tileset, 0, 0);
  	platformsLayer = map.createDynamicLayer("Platforms", tileset, 0, 0);
