@@ -1,10 +1,9 @@
-{ "height":20,
+{ "height":40,
  "infinite":false,
  "layers":[
         {
-         "data":"QQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAG0AAABuAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAfQAAAH4AAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABrAAAAbAAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAHsAAAB8AAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABtAAAAbgAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAH0AAAB+AAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABIAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAFgAAABtAAAAbgAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAGsAAABsAAAAaAAAAH0AAAB+AAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAewAAAHwAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAEEAAABBAAAAQQAAAA==",
-         "encoding":"base64",
-         "height":20,
+         "data":[30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 38, 38, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 38, 38, 30, 30, 30, 30, 30, 39, 39, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 39, 39, 30, 30, 30, 31, 31, 31, 31, 31, 31, 30, 30, 30, 38, 38, 38, 30, 30, 30, 30, 30, 30, 30, 30, 31, 31, 31, 31, 31, 31, 30, 30, 30, 38, 38, 38, 30, 30, 30, 30, 30, 30, 30, 30, 31, 31, 31, 31, 31, 31, 30, 30, 30, 38, 38, 38, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 38, 38, 38, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 38, 38, 38, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 40, 40, 30, 30, 30, 30, 30, 30, 48, 48, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 40, 40, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 39, 39, 39, 39, 30, 30, 30, 30, 30, 30, 30, 32, 32, 30, 30, 30, 30, 30, 30, 30, 39, 38, 38, 39, 30, 30, 30, 30, 30, 30, 30, 32, 32, 30, 30, 30, 30, 30, 30, 30, 39, 38, 38, 39, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 39, 39, 39, 39, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 38, 38, 38, 38, 38, 38, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 40, 40, 40, 40, 40, 40, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 40, 40, 40, 40, 40, 40, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 40, 40, 40, 40, 40, 40, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 48, 48, 48, 30, 30, 30, 39, 39, 39, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 48, 48, 48, 30, 30, 30, 39, 39, 39, 30, 30, 30, 30, 38, 38, 38, 38, 38, 30, 30, 48, 48, 48, 30, 30, 30, 39, 39, 39, 30, 30, 30, 30, 38, 38, 38, 38, 38, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 46, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30],
+         "height":40,
          "name":"Background",
          "opacity":1,
          "type":"tilelayer",
@@ -14,9 +13,8 @@
          "y":0
         }, 
         {
-         "data":"CgAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAAwAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAAgAAAAIAAAACAAAAAgAAAAIAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAASAAAAEgAAABIAAAASAAAAEgAAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAEgAAABMAAAAAAAAAAAAAAAAAAAAAAAAAQQAAABIAAAASAAAAEgAAABIAAAASAAAAGgAAAAAAAABBAAAAQQAAAAAAAAAAAAAAAAAAACEAAAAiAAAAIwAAAAAAAAAAAAAAAAAAAAAAAABBAAAAIgAAACIAAAAiAAAAIgAAACIAAAAaAAAAAAAAAEEAAABBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAABoAAAAAAAAAQQAAAEEAAABBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAGgAAAAAAAABBAAAAQQAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAEEAAABBAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMgAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAEgAAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAAAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAiAAAAIwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAIAAAADAAAAAAAAABwAAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAASAAAAEgAAABMAAAAAAAAAHAAAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAABIAAAASAAAAEwAAAAAAAAAcAAAAGgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAMgAAADMAAAAjAAAAAAAAABwAAAAyAAAAMgAAADIAAAAyAAAAMgAAADIAAAAyAAAAMgAAADIAAAAyAAAAMgAAADIAAAAyAAAAMgAAADIAAAAyAAAAMgAAADIAAAAyAAAAMgAAAA==",
-         "encoding":"base64",
-         "height":20,
+         "data":[36, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 37, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 35, 0, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 0, 0, 0, 33, 35, 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, 34, 34, 0, 33, 35, 0, 34, 0, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 0, 0, 0, 34, 0, 33, 35, 0, 34, 34, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, 0, 33, 35, 0, 0, 0, 34, 0, 34, 34, 34, 34, 34, 34, 0, 34, 0, 34, 34, 34, 0, 33, 35, 0, 0, 0, 34, 0, 34, 0, 0, 0, 0, 0, 0, 34, 0, 34, 0, 0, 0, 33, 34, 34, 34, 34, 34, 0, 34, 0, 0, 0, 0, 0, 0, 34, 0, 34, 0, 0, 0, 33, 35, 0, 0, 0, 0, 0, 34, 0, 0, 0, 0, 0, 0, 34, 0, 34, 0, 0, 0, 33, 35, 0, 0, 0, 34, 0, 34, 34, 34, 34, 34, 34, 34, 34, 0, 34, 0, 0, 0, 33, 35, 0, 0, 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, 0, 0, 0, 33, 35, 0, 34, 34, 34, 0, 34, 34, 34, 34, 34, 34, 34, 34, 0, 34, 34, 34, 0, 33, 35, 0, 34, 0, 0, 0, 34, 0, 0, 0, 0, 0, 0, 34, 0, 0, 0, 34, 0, 33, 35, 0, 34, 0, 0, 0, 34, 0, 34, 0, 0, 34, 0, 34, 0, 0, 0, 34, 0, 33, 35, 0, 34, 34, 34, 34, 34, 0, 34, 0, 0, 34, 0, 34, 34, 34, 34, 34, 0, 33, 35, 0, 0, 0, 0, 0, 0, 0, 34, 0, 0, 34, 0, 0, 0, 0, 0, 0, 0, 33, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 0, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 0, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 10, 10, 0, 10, 10, 10, 10, 10, 0, 10, 0, 0, 10, 0, 0, 0, 0, 0, 10, 0, 10, 10, 0, 10, 0, 0, 0, 10, 0, 10, 0, 0, 10, 0, 0, 0, 0, 0, 10, 0, 10, 10, 0, 10, 0, 0, 0, 10, 0, 10, 0, 0, 10, 0, 0, 0, 0, 0, 10, 0, 10, 10, 0, 10, 0, 10, 10, 10, 0, 10, 0, 0, 10, 0, 0, 0, 0, 0, 10, 0, 10, 10, 0, 10, 0, 0, 0, 0, 0, 10, 0, 0, 10, 0, 10, 10, 10, 10, 10, 0, 10, 10, 0, 10, 10, 10, 10, 10, 10, 10, 0, 0, 10, 0, 10, 0, 0, 0, 0, 0, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 10, 10, 10, 0, 10, 10, 0, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 10, 0, 0, 0, 10, 10, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 10, 10, 10, 10, 0, 10, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10, 10, 0, 10, 0, 10, 10, 0, 10, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 10, 0, 10, 10, 0, 10, 0, 0, 0, 0, 0, 0, 10, 0, 10, 10, 10, 10, 10, 10, 10, 0, 10, 10, 0, 10, 10, 10, 0, 10, 10, 10, 10, 0, 10, 0, 0, 0, 0, 0, 0, 0, 10, 10, 0, 0, 0, 10, 0, 10, 0, 0, 0, 0, 10, 0, 10, 10, 10, 10, 10, 0, 10, 10, 0, 0, 0, 10, 0, 10, 0, 0, 0, 0, 10, 0, 10, 0, 0, 0, 0, 0, 10, 10, 0, 0, 0, 10, 0, 10, 0, 0, 0, 0, 10, 0, 10, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10, 0, 10, 10, 10, 10, 10, 10, 0, 10, 10, 10, 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+         "height":40,
          "name":"Platforms",
          "opacity":1,
          "type":"tilelayer",
@@ -30,8 +28,19 @@
          "name":"Objects",
          "objects":[
                 {
-                 "height":0,
+                 "height":61.3566,
                  "id":1,
+                 "name":"EndZone",
+                 "rotation":1.17762,
+                 "type":"",
+                 "visible":true,
+                 "width":63.61,
+                 "x":67.3322,
+                 "y":199.675
+                }, 
+                {
+                 "height":0,
+                 "id":2,
                  "name":"Player",
                  "point":true,
                  "properties":
@@ -46,8 +55,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":100,
-                 "y":295
+                 "x":45,
+                 "y":1285
                 }, 
                 {
                  "height":0,
@@ -66,8 +75,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":135,
-                 "y":58
+                 "x":150,
+                 "y":1048
                 }, 
                 {
                  "height":0,
@@ -86,8 +95,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":247.5,
-                 "y":233
+                 "x":480,
+                 "y":1213
                 }, 
                 {
                  "height":0,
@@ -106,19 +115,448 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":263,
-                 "y":233
+                 "x":279,
+                 "y":1186
                 }, 
                 {
-                 "height":32,
+                 "height":0,
                  "id":6,
-                 "name":"EndZone",
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":32,
-                 "x":270,
-                 "y":17
+                 "width":0,
+                 "x":81,
+                 "y":1183
+                }, 
+                {
+                 "height":0,
+                 "id":7,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":311,
+                 "y":920
+                }, 
+                {
+                 "height":0,
+                 "id":9,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":513,
+                 "y":819
+                }, 
+                {
+                 "height":0,
+                 "id":10,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":182.667,
+                 "y":757.667
+                }, 
+                {
+                 "height":0,
+                 "id":11,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":545,
+                 "y":490
+                }, 
+                {
+                 "height":0,
+                 "id":12,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":547,
+                 "y":391
+                }, 
+                {
+                 "height":0,
+                 "id":13,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":150,
+                 "y":486
+                }, 
+                {
+                 "height":0,
+                 "id":14,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":320,
+                 "y":322
+                }, 
+                {
+                 "height":0,
+                 "id":15,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":551,
+                 "y":188
+                }, 
+                {
+                 "height":0,
+                 "id":16,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":314,
+                 "y":196
+                }, 
+                {
+                 "height":0,
+                 "id":17,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":313,
+                 "y":64
+                }, 
+                {
+                 "height":0,
+                 "id":18,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":511,
+                 "y":625
+                }, 
+                {
+                 "height":0,
+                 "id":19,
+                 "name":"Coin",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":612,
+                 "y":1285
+                }, 
+                {
+                 "height":0,
+                 "id":21,
+                 "name":"Enemy",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":43.3333,
+                 "y":906.667
+                }, 
+                {
+                 "height":0,
+                 "id":23,
+                 "name":"Enemy",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":49.3333,
+                 "y":41.3333
+                }, 
+                {
+                 "height":0,
+                 "id":25,
+                 "name":"Enemy",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":450,
+                 "y":194
+                }, 
+                {
+                 "height":0,
+                 "id":36,
+                 "name":"Enemy",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":617.333,
+                 "y":558.667
+                }, 
+                {
+                 "height":0,
+                 "id":37,
+                 "name":"Enemy2",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":312,
+                 "y":620
+                }, 
+                {
+                 "height":0,
+                 "id":38,
+                 "name":"Enemy2",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":548,
+                 "y":818
+                }, 
+                {
+                 "height":0,
+                 "id":39,
+                 "name":"Enemy2",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":246,
+                 "y":984
+                }, 
+                {
+                 "height":0,
+                 "id":40,
+                 "name":"Enemy2",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":610,
+                 "y":64
+                }, 
+                {
+                 "height":0,
+                 "id":41,
+                 "name":"Enemy2",
+                 "point":true,
+                 "properties":
+                    {
+                     "ObjectID":"Coin"
+                    },
+                 "propertytypes":
+                    {
+                     "ObjectID":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":318,
+                 "y":1284
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -126,26 +564,26 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":7,
+ "nextobjectid":42,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2018.01.01",
- "tileheight":16,
+ "tileheight":33,
  "tilesets":[
         {
-         "columns":16,
+         "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/Documents\/_UNI\/China\/Web Games Dev\/Labs\/Lab5\/lvl\/platformer.png",
-         "imageheight":144,
-         "imagewidth":256,
+         "image":"platformer.png",
+         "imageheight":199,
+         "imagewidth":265,
          "margin":0,
-         "name":"Tileset",
+         "name":"platformer",
          "spacing":0,
-         "tilecount":144,
-         "tileheight":16,
-         "tilewidth":16
+         "tilecount":48,
+         "tileheight":33,
+         "tilewidth":33
         }],
- "tilewidth":16,
+ "tilewidth":33,
  "type":"map",
  "version":1,
  "width":20

@@ -12,6 +12,7 @@ var gameConf = {
 var coins = [];
 var player;
 var enemy = []
+var enemy2 = []
 var GameScene = new Phaser.Scene(gameConf);
 
 //called before the scene is loaded
@@ -52,6 +53,10 @@ GameScene.create = function() {
               enemy.push(GameScene.physics.add.image(item.x, item.y, "img_enemy")
               	.setDepth(10)
               	.setScale(2));
+            if (item.name == "Enemy2")
+              enemy.push(GameScene.physics.add.image(item.x, item.y, "img_enemy2")
+              	.setDepth(10)
+              	.setScale(0.15));
         });
 	//enable physics
 	coins.forEach(function(item, index, array)
@@ -78,6 +83,8 @@ GameScene.create = function() {
     this.physics.add.overlap(player.sprite, endTrigger, function()
     {
     	soundTrack.stop();
+    	enemy = [];
+    	alert("Congratulations on your successful escape from the maze!");
     	GameScene.scene.start("Boot");
     });
 }
